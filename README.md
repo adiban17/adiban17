@@ -1,120 +1,47 @@
-  <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
-  </ul>
-</div>
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-<!--Intro start-->
-<ul>
-<li>
-<p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
-</li>
-<li>
-<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
-</li>
-<li>
-<p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
-</li>
-<li>
-<p>📝 I regularly write articles on <a href="https://1010nishant.hashnode.dev/">Hashnode</a></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">nishantjangid6377@gmail.com</a></strong></p>
-</li>
-<li>
-<p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
-</li>
-</ul>
-<!--Intro end-->
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-</p>
-<table align="center">
-<tbody><tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&amp;theme=dark&amp;hide_border=false"> 
-</td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </td>
-</tr>
-</tbody></table>
-<!--- stats (end) -->
-<!--- trophy (start) -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=1010nishant&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
-    </a>
-</div>
-<!--- trophy (start) -->
-<p></p>        
-<!--- stats (end) -->
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&amp;perline=14">
-  </a>
-</p>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50"></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a>
-</p>
-<!--profile visit count-->
-<div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
-</div>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
-<p>Credit: <a href="https://github.com/1010nishant">1010nishant</a></p>
-<p>Last Edited on: 29/4/2023</p> 
-
-
+  <h1 id="hi-there--aditya-here">Hi there 👋, Aditya here.</h1>
+<p><img src="https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName" alt="Visitor"> <a href="https://github.com/Bhargavi-hash?tab=followers"><img src="https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&amp;label=Follow" alt="GitHub followers"></a><br></p>
 <!--
-**adiban17/adiban17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
+<h2 id="about-me"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>About me</strong></em></h2>
+<p>I am a final year engineering student who is very interested in tech. My forte lies in Python, Data Science, Machine Learning, Deep Learning and Generative AI. I love to take on challenges and build cool, innovative and impactful products.</p>
+<ul>
+<li><strong>I am interested in training ML models, automation and backend development.</strong></li>
+</ul>
+<ul>
+<li>🌱 I’m currently learning …
+<ul>
+<li>FastAPIs</li>
+<li>LLM Evals</li>
+</ul>
+</li>
+<li>👯 I’m looking forward to collaborate on open source projects.</li>
+<li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br></li>
+<li>Outside tech, 💪 I love to go to the gym, ⚽️ playing and watching football, 🎵 listening to music, and 🍳 cooking.</li>
+<li>📫 Reach out to me at: <a href="adityabanerjee171@gmail.com"></a><a href="mailto:adityabanerjee171@gmail.com">adityabanerjee171@gmail.com</a></li>
+</ul>
+<p><strong>Check out my GitHub repository:</strong></p>
+<div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&amp;repo=HotelFranchiseDBMS" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&amp;repo=Linux-Shell-Implementation" alt="GitHub Stats">
+    </a>
+  </p>
+</div>
+<h2>👀 My github Stats</h2>
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats"> <br><br>
+</p></div>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&amp;show_icons=true&amp;include_all_commits=true" alt="My github status">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&amp;layout=compact" alt="Top Langs"></p>
+<hr>
