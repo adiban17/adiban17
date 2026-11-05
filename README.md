@@ -21,27 +21,7 @@
 <li>Outside tech, 💪 I love to go to the gym, ⚽️ playing and watching football, 🎵 listening to music, and 🍳 cooking.</li>
 <li>📫 Reach out to me at: <a href="mailto:adityabanerjee171@gmail.com">adityabanerjee171@gmail.com</a></li>
 </ul>
-<p><strong>Check out my GitHub repository:</strong></p>
-<div>
-  <p>
-    <a href="https://github.com/adiban17/YOUR_REPO_1.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=adiban17&amp;repo=YOUR_REPO_1" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/adiban17/YOUR_REPO_2.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=adiban17&amp;repo=YOUR_REPO_2" alt="GitHub Stats">
-    </a>
-  </p>
 </div>
-<h2>👀 My github Stats</h2>
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=adiban17&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiban17" alt="GitHub Stats"> <br><br>
-</p></div>
 <p><img src="https://github-readme-stats.vercel.app/api?username=adiban17&amp;show_icons=true&amp;include_all_commits=true" alt="My github status">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiban17&amp;layout=compact" alt="Top Langs"></p>
 <hr>
