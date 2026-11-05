@@ -3,7 +3,7 @@
 <!--
 **adiban17/adiban17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" width="300px" alt="Tech HUD" src="https://media.giphy.com/media/10pW2PeJkLuJws/giphy.gif">
+<img align="right" width="300px" alt="Neural Network" src="https://media.giphy.com/media/26tn33aiTi1jIGsLu/giphy.gif">
 <h2 id="about-me"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>About me</strong></em></h2>
 <p>I am a final year engineering student who is very interested in tech. My forte lies in Python, Data Science, Machine Learning, Deep Learning and Generative AI. I love to take on challenges and build cool, innovative and impactful products.</p>
 <ul>
